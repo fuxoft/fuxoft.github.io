@@ -1,8 +1,3 @@
-# Nadpis 1 v README.md
+# Nadpis 1 Veřejné texty
 
-# Nadpis 2
-
-Update 17:26 - oiafsiuh afskljafdkljadfskjhafsdkjhfalkjh asdkljh alksj afdas
-oiafsiuh afskljafdkljadfskjhafsdkjhfalkjh asdkljh alksj afdas
-oiafsiuh afskljafdkljadfskjhafsdkjhfalkjh asdkljh alksj afdas
-oiafsiuh afskljafdkljadfskjhafsdkjhfalkjh asdkljh alksj afdas testtest
+[Moje vzpomínky (work in progress)](vzpominky)
