@@ -1,3 +1,25 @@
+# Fuxoft vzpomínky
+
+V průběhu minulých desetiletí jsem mnohokrát dával rozhovory o počátcích videoher v Československu a (méně často) o svém soukromém životě. Tolikrát, že už mě to občas otravovalo, říkat pořád dokola tytéž historky.
+
+Posléze jsem bohužel zjistil, že:
+- Některé ty historky vyprávím v průběhu let jinak než dřív.
+- V různých časopisech, knihách a televizních a rozhlasových pořadech moje historky zkracují a upravují tak zásadním způsobem, že už neodpovídají tomu, co jsem řekl, ale spíš tomu, co chce říct autor článku / pořadu.
+
+Proto jsem si řekl, že se pokusím co nejvíc těch historek sepsat a uchovat pro příští generace v jejich nezkreslené podobě.
+
+> Tedy: Tato stránka je zatím velmi náhodně strukturovaný **ZÁRODEK** něčeho, co možná někdy dokončím a možná ne. Pokud ale ty doby pamatujete a připadá vám, že zde něco píšu jinak, než se to opravdu stalo, dejte mi vědět.
+
+## Krátké shrnutí základních informací o mém životě
+
+Narodil jsem se 9. října 1968. Otec byl hudebník Václav Fuka, matka výtvarnice Helena Hubíková. Mám o rok a půl mladší sestru Janu. Celý život jsem žil v Praze. Do svých 29 let v ulici Na valech, pak v ulicích Belgická, Rumunská, Pešlova a od roku 2020 Pod valem (ano, upgrade z "Na valech" na "Pod valem").
+
+Vzdělání: Chodil jsem na základní školu v ulici Majakovského (dnes "Pelléova") a později náměstí Svobody, pak na první programátorské gymnázium Arabská (třídní profesor Lauterbach) a pak dva a půl roku na ČVUT, Fakultu elektrotechnickou, obor Technická kybernetika.
+
+Oženil jsem se s houslistkou Hanou Hložkovou (2012 - 2014) a pak s učitelkou Ilonou Hrubešovou (2020 -). Děti nemám.
+
+## Počítačové začátky
+
 ### Komu jsem prodal práva na svoje osmibitové hry?
 
 Někdy relativně brzy po Sametové revoluci (když se ještě prodávaly hry pro ZX Spectrum) se mi ozvala firma Ultrasoft, že by chtěla za fixní sumu peněz odkoupit autorské práva na všechny moje do té doby vydané hry pro ZX Spectrum. Překvapilo mě, že někdo chce kupovat práva na hry, které byly do té doby volně šiřitelné, ale souhlasil jsem, dostal jsem peníze a koupil si za ně syntezátor Korg M1 (na kterém jsem později nahrál většinu hudby pro film "Byl jsem mladistvým intelektuálem"). V pozdějších desetiletích se mě pak mnozí lidé ptali, zda mohou nějakou mou starší hru konvertovat pro nějakou novou platformu (např. iPhone) a všem jsem odpovídal, že já proti tomu nic nemám, ale práva oficiálně patří společnosti Ultrasoft, o jejímž osudu nic nevím.
@@ -39,5 +61,5 @@ Zajímavosti:
 
 Here is a simple footnote[^prdel]. With some additional text after it. Tady je další [^mrd] a tady je ještě jednou ta samá [^mrd]. Tak uvidíme.
 
-[^prdel]: My reference prdel.
+[^prdel]: My simple reference.
 [^mrd]: Tady je footnote na kterou vedou dva odkazy.
